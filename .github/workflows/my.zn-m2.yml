@@ -28,7 +28,7 @@ env:
   DIY_P2_SH: ./scripts/zn-m2/diy-part2.sh
   DIY_P3_SH: ./scripts/zn-m2/diy-part3.sh
   UPLOAD_BIN_DIR: false
-  UPLOAD_RELEASE: true
+  UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
 
 jobs:
